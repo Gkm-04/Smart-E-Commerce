@@ -32,4 +32,4 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Smart-E-Commerce.git](https://github.com/YOUR_USERNAME/Smart-E-Commerce.git)
+   git clone [https://github.com/Gkm-04/Smart-E-Commerce.git](https://github.com/Gkm-04/Smart-E-Commerce.git)
